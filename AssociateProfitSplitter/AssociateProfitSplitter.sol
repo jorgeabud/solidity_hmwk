@@ -37,4 +37,6 @@ contract AssociateProfitSplitter {
         deposit();
         
     }
+    
 }
+
