@@ -21,4 +21,4 @@
 ### Deploying the Contract
 
 * Now it is time to deploy the contract, one deposit click the arrow that will allow for the input of the three addresses we want to send Ether too.
-* 
+
